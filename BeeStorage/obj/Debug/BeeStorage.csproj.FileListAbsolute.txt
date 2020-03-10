@@ -1,0 +1,10 @@
+C:\Users\Ілля\Desktop\BeeStorage\BeeStorage\bin\Debug\BeeStorage.exe.config
+C:\Users\Ілля\Desktop\BeeStorage\BeeStorage\bin\Debug\BeeStorage.exe
+C:\Users\Ілля\Desktop\BeeStorage\BeeStorage\bin\Debug\BeeStorage.pdb
+C:\Users\Ілля\Desktop\BeeStorage\BeeStorage\obj\Debug\BeeStorage.csprojAssemblyReference.cache
+C:\Users\Ілля\Desktop\BeeStorage\BeeStorage\obj\Debug\BeeStorage.Form1.resources
+C:\Users\Ілля\Desktop\BeeStorage\BeeStorage\obj\Debug\BeeStorage.Properties.Resources.resources
+C:\Users\Ілля\Desktop\BeeStorage\BeeStorage\obj\Debug\BeeStorage.csproj.GenerateResource.cache
+C:\Users\Ілля\Desktop\BeeStorage\BeeStorage\obj\Debug\BeeStorage.csproj.CoreCompileInputs.cache
+C:\Users\Ілля\Desktop\BeeStorage\BeeStorage\obj\Debug\BeeStorage.exe
+C:\Users\Ілля\Desktop\BeeStorage\BeeStorage\obj\Debug\BeeStorage.pdb

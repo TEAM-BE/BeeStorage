@@ -6,12 +6,15 @@ using System.Windows.Forms;
 
 namespace BeeStorage
 {
+    
     static class Program
     {
-        /// <summary>
-        /// The main entry point for the application.
-        /// </summary>
+        public static List<Product> product_list = new List<Product>();
+        public static List<Fruits_Vegetables> fruits_vegetables_list = new List<Fruits_Vegetables>();
+        public static List<Water> water_list = new List<Water>();
+
         [STAThread]
+        
         static void Main()
         {
             Application.EnableVisualStyles();
